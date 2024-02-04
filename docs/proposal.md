@@ -151,6 +151,21 @@ This project matters because it provides valuable insights into the dynamics of 
 29. **VEHICLE TYPE CODE 5:**
     - Description: Type of vehicle based on the selected vehicle category (ATV, bicycle, car/suv, ebike, escooter, truck/bus, motorcycle, other)
     - Type: Plain Text
+# 1. Temporal Trends:
+   - Potential values: Date & Time
+   - Target/label: Number of collisions on each date
+   - Features: Date & Time
+
+# 2. Boroughs or Zip Codes with Highest Frequency:
+   - Potential values: Boroughs, Zip Codes
+   - Target/label: Number of collisions in each Borough or Zip Code
+   - Features: Borough, Zip Code
+
+# 3. Specific Times of the Day:
+   - Potential values: Time of day (morning, afternoon, evening, night)
+   - Target/label: Number of collisions during each time period
+   - Features: Crash Time
+
 
 **Which variable/column will be your target/label in your ML model?**  
 - Severity of collisions (e.g., total injuries, total fatalities)
