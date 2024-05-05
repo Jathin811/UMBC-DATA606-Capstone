@@ -181,19 +181,19 @@ Accuracy: Measures the proportion of correctly classified instances.
 By assessing these performance measures, the effectiveness of each model in predicting outcomes was evaluated, providing insights into their strengths and weaknesses.
 By seeing the results of models they performed very good in predicting the number of deaths.
 
-Linear Regression:
+**Linear Regression:**
 - Achieved an accuracy of 98.05% on the training set and 97.89% on the test set.
 - Demonstrated high precision with minimal errors, as indicated by zero mean absolute, mean squared, and root mean squared errors.
 - Exhibited a high R-squared value of 0.98, indicating strong predictive capability.
 - Summary: The linear regression model showed outstanding accuracy and precision in predicting the target variable.
-- 
-Decision Tree Regressor:
+
+**Decision Tree Regressor:**
 - Attained perfect accuracy of 100.0% on the training set and 95.51% on the test set.
 -  Showed negligible errors with zero mean absolute, mean squared, and root mean squared errors.
 - Achieved a commendable R-squared value of 0.96, indicating robust predictive performance.
 - Summary: The decision tree regressor model demonstrated flawless accuracy on the training set and high accuracy on the test set, making it highly reliable for prediction tasks.
-- 
-Random Forest Regressor:
+  
+**Random Forest Regressor:**
 - Achieved an accuracy of 99.63% on the training set and 95.70% on the test set.
 - Displayed minimal errors with zero mean absolute, mean squared, and root mean squared errors.
 - Maintained a strong R-squared value of 0.96, highlighting its predictive prowess.
