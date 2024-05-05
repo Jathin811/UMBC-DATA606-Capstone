@@ -202,7 +202,20 @@ By seeing the results of models they performed very good in predicting the numbe
 
 ## Web App Development:
 Developed a web application using Streamlit for users to interact with accident trends.
+## Features:
 
+1. **Map Display:**
+   - Users can visualize locations where a specified number of people were injured in collisions on a map.
+   
+2. **Time Analysis:**
+   - Users can select an hour, and the app displays a hexagonal heatmap representing the density of collisions during that hour.
+   - Additionally, it provides a breakdown by minute within the selected hour to understand temporal trends.
+
+3. **Top Risky Streets:**
+   - Displays the top 5 streets with the highest number of injuries to pedestrians, cyclists, or motorists, based on user selection.
+
+4. **Raw Data Display:**
+   - Optionally, users can view the raw data used for analysis.
 ## Conclusion:
 
 - The project's primary objective was to enhance road safety and prevent accidents by leveraging data-driven insights.
