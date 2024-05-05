@@ -27,7 +27,7 @@ This project matters because it provides valuable insights into the dynamics of 
 
 ## Data
 
-**Describe the datasets you are using to answer your research questions.**
+**Describe my dataset.**
 
 **Data sources:** [Motor Vehicle Collisions - Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 
