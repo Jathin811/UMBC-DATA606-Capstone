@@ -164,7 +164,7 @@ NUMBER OF PEDESTRIANS KILLED,NUMBER OF CYCLIST KILLED,NUMBER OF MOTORIST INJURED
 1. Models for Predictive Analytics:
 Models used are Linear regression, Decision trees, Random forest.
 2. Training Procedure:
-I have performed the Train vs test split for 70/30 to ensure the model learns effectively and generalizes well to new data.
+I have performed the Train vs test split for 80/20 to ensure the model learns effectively and generalizes well to new data.
 
 3. Python Packages:
 I have primarily used python packages in project. They are Numpy, Pandas,matplotlib, plotly, seaborn and scikit-learn
@@ -180,6 +180,7 @@ The performance of the models was evaluated using various metrics, including:
 Accuracy: Measures the proportion of correctly classified instances.
 By assessing these performance measures, the effectiveness of each model in predicting outcomes was evaluated, providing insights into their strengths and weaknesses.
 By seeing the results of models they performed very good in predicting the number of deaths.
+
 Linear Regression:
 - Achieved an accuracy of 98.05% on the training set and 97.89% on the test set.
 - Demonstrated high precision with minimal errors, as indicated by zero mean absolute, mean squared, and root mean squared errors.
