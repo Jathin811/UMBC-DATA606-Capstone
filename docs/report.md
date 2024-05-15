@@ -224,3 +224,7 @@ Developed a web application using Streamlit for users to interact with accident 
 - These insights enabled the development of recommendations aimed at improving road safety measures.
 - This provides  actionable recommendations to prevent future collisions based on the analysis findings.
 
+## References:
+  -References: https://www.linkedin.com/pulse/motor-vehicle-collision-data-analysis-new-york-city-zuberi/
+
+  -https://github.com/ShrivatsAgrawal/Predictive-Analytics---NYC-Motor-Collisions/blob/main/Jupyter%20Notebooks/Modeling.ipynb
